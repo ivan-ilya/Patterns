@@ -1,0 +1,19 @@
+# Build
+bin/
+obj/
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Others
+.vscode/
+*.DS_Store
+
